@@ -2,14 +2,13 @@
 Asynchronous FIFO implementation
 
 # Architecture
-
-![image](https://github.com/Kai-Dun/asy_FIFO/assets/93189715/681dfbc0-4196-46bb-ab2d-f9c1d373700c)
+![asy_FIFO_architecture](https://github.com/Kai-Dun/asy_FIFO/assets/93189715/db89d3ce-dfd7-4559-b1cc-8fe71f9b537b)
 
 
 # Empty and Full definition
-Add more 1 bit for ptr  
+![ptr](https://github.com/Kai-Dun/asy_FIFO/assets/93189715/d436493a-07e6-4327-acba-94011b421f6f)
 
-![ptr](https://github.com/Kai-Dun/asy_FIFO/assets/93189715/d5a0e2f8-3fc7-4c37-b77b-05c83f5f3077)
+Add more 1 bit for ptr  
 
 Binary to Gray code  
 0010(2) -> 0011(g)  
